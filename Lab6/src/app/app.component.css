@@ -1,0 +1,20 @@
+.mat-column-id
+{
+    padding: 30px; 
+}
+.mat-column-title
+{
+    padding: 30px; 
+}
+.mat-column-completed
+{
+    padding: 30px; 
+}
+
+.mat-column-actions {
+  padding: 30px; 
+}
+.mat-row {
+    margin-bottom: 500px;
+  }
+  
