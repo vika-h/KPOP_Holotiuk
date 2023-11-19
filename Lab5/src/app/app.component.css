@@ -1,0 +1,12 @@
+.mat-column-name,
+.mat-column-last_name,
+.mat-column-gender,
+.mat-column-dob,
+.mat-column-age,
+.mat-column-actions {
+  padding: 20px; 
+}
+.mat-row {
+    margin-bottom: 16px;
+  }
+  
